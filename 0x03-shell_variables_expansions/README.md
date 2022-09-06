@@ -1,1 +1,1 @@
-0-alias - creates an scripts
+READ ME NOTES
